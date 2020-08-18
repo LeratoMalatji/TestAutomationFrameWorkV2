@@ -1,0 +1,14 @@
+08:48:44.206 [TestNG-tests-1] INFO  web.HomePage - open browsers navigating to url
+08:48:47.079 [TestNG-tests-1] INFO  web.HomePage - landed on login page
+08:48:57.460 [TestNG-tests-1] INFO  web.HomePage - closing browser
+10:57:57.219 [main] INFO  utility.ExtentReporterNg - located the externalReport.properties file
+10:57:57.221 [main] INFO  utility.ExtentReporterNg - File loaded into system
+10:57:57.359 [main] INFO  utility.ExtentReporterNg - reporter details set and attached 
+10:57:57.359 [main] INFO  utility.ExtentReporterNg - located the externalReport.properties file
+10:57:57.360 [main] INFO  utility.ExtentReporterNg - File loaded into system
+10:57:57.361 [main] INFO  utility.ExtentReporterNg - reporter details set and attached 
+10:57:57.486 [TestNG-tests-1] INFO  common.Listeners - on TestStart dynamically created method name under test
+10:57:57.488 [TestNG-tests-1] INFO  web.HomePage - Initialazing driver
+10:57:57.500 [TestNG-tests-1] INFO  common.helper.Browser - Running on Test on browser in headless Mode chromeheadless
+10:57:57.993 [TestNG-tests-1] ERROR common.Listeners - Webdriver is found to be null
+10:57:57.998 [TestNG-tests-1] ERROR common.Listeners - Webdriver is found to be null

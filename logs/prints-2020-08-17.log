@@ -1,0 +1,25 @@
+23:31:39.569 [main] INFO  utility.ExtentReporterNg - located the externalReport.properties file
+23:31:39.572 [main] INFO  utility.ExtentReporterNg - File loaded into system
+23:31:39.699 [main] INFO  utility.ExtentReporterNg - reporter details set and attached 
+23:31:39.880 [TestNG-tests-1] INFO  common.Listeners - on TestStart dynamically created method name under test
+23:31:39.881 [TestNG-tests-1] INFO  web.HomePage - Initialazing driver
+23:31:41.567 [TestNG-tests-1] INFO  common.helper.Browser - Running on Test on browser chrome
+23:31:41.567 [TestNG-tests-1] INFO  common.Web_Base - Maximizing browser
+23:31:46.131 [TestNG-tests-1] INFO  web.HomePage - open browsers navigating to url
+23:31:48.629 [TestNG-tests-1] INFO  web.HomePage - landed on login page
+23:31:49.432 [TestNG-tests-1] INFO  web.HomePage - signing in
+23:31:49.440 [TestNG-tests-1] INFO  common.Listeners - Test case passed
+23:31:49.441 [TestNG-tests-1] INFO  common.Listeners - on TestStart dynamically created method name under test
+23:31:49.442 [TestNG-tests-1] INFO  web.HomePage - Initialazing driver
+23:31:49.923 [TestNG-tests-1] INFO  common.helper.Browser - Running on Test on browser chrome
+23:31:49.923 [TestNG-tests-1] INFO  common.Web_Base - Maximizing browser
+23:31:54.843 [TestNG-tests-1] INFO  web.HomePage - open browsers navigating to url
+23:31:57.330 [TestNG-tests-1] INFO  web.HomePage - landed on login page
+23:31:58.102 [TestNG-tests-1] INFO  web.HomePage - signing in
+23:31:58.102 [TestNG-tests-1] INFO  common.Listeners - Test case passed
+23:31:58.269 [TestNG-tests-1] INFO  web.HomePage - closing browser
+23:36:48.865 [main] INFO  utility.ExtentReporterNg - located the externalReport.properties file
+23:36:48.867 [main] INFO  utility.ExtentReporterNg - File loaded into system
+23:36:48.991 [main] INFO  utility.ExtentReporterNg - reporter details set and attached 
+23:36:49.141 [TestNG-tests-1] INFO  common.Listeners - on TestStart dynamically created method name under test
+23:36:49.142 [TestNG-tests-1] INFO  web.HomePage - Initialazing driver

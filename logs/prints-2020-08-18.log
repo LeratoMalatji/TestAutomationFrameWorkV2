@@ -1,0 +1,21 @@
+08:47:21.028 [TestNG-tests-1] INFO  web.HomePage - closing browser
+08:48:14.220 [main] INFO  utility.ExtentReporterNg - located the externalReport.properties file
+08:48:14.223 [main] INFO  utility.ExtentReporterNg - File loaded into system
+08:48:14.374 [main] INFO  utility.ExtentReporterNg - reporter details set and attached 
+08:48:14.374 [main] INFO  utility.ExtentReporterNg - located the externalReport.properties file
+08:48:14.374 [main] INFO  utility.ExtentReporterNg - File loaded into system
+08:48:14.375 [main] INFO  utility.ExtentReporterNg - reporter details set and attached 
+08:48:14.627 [TestNG-tests-1] INFO  common.Listeners - on TestStart dynamically created method name under test
+08:48:14.628 [TestNG-tests-1] INFO  web.HomePage - Initialazing driver
+08:48:14.636 [TestNG-tests-1] INFO  common.helper.Browser - Running on Test on browser in headless Mode chromeheadless
+08:48:15.713 [TestNG-tests-1] INFO  common.helper.Browser - Running on Test on browser chromeheadless
+08:48:15.713 [TestNG-tests-1] INFO  common.Web_Base - Maximizing browser
+08:48:24.104 [TestNG-tests-1] INFO  web.HomePage - open browsers navigating to url
+08:48:26.994 [TestNG-tests-1] INFO  web.HomePage - landed on login page
+08:48:37.312 [TestNG-tests-1] INFO  common.helper.ScreenShot - Taking error screen shot and saving it to /home/lerato/Documents/Wamly V2 2020/MailerService/Test_framework/reports/homePageNavigation.png
+08:48:37.313 [TestNG-tests-1] INFO  common.Listeners - Screenshot taken successfully of the failed test
+08:48:37.314 [TestNG-tests-1] INFO  common.Listeners - on TestStart dynamically created method name under test
+08:48:37.314 [TestNG-tests-1] INFO  web.HomePage - Initialazing driver
+08:48:37.314 [TestNG-tests-1] INFO  common.helper.Browser - Running on Test on browser in headless Mode chromeheadless
+08:48:37.529 [TestNG-tests-1] INFO  common.helper.Browser - Running on Test on browser chromeheadless
+08:48:37.530 [TestNG-tests-1] INFO  common.Web_Base - Maximizing browser
